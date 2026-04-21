@@ -1,0 +1,8 @@
+{
+  "name": "WebMessenger",
+  "short_name": "Messenger",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0088cc",
+  "background_color": "#17212b"
+}
